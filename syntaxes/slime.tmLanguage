@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>slime</string>
+		<string>slimleex</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>^\s*([-%#\:\.\w\=].*)\s$</string>
